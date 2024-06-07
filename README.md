@@ -1,4 +1,4 @@
-## Hi there, welcome for my cafe: **Coffee Talk**
+## Hi there, welcome for my special place: **Coffee Talk**
 
 
 My name is **Esdras Alcantara**
