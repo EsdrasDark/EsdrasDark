@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, welcome for my cafe: **Coffee Talk**
 
-<!--
-**EsdrasDark/EsdrasDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Esdras Alcantara**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Im study in:
+
+-> **Digital Art**
+-> **Gastronomy**
+-> **Technology informatic**
+-> **Video Editor**
+
+* My contact is: **esdrasoliveiraalcantara9@gmail.com**
+
+  ![](https://media1.tenor.com/m/4ugrqwKbZe0AAAAC/cafe-coffee.gif)
+  
